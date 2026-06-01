@@ -6,4 +6,4 @@ Other interests include primarily Linux, for which I have my own scripts and dot
 
 I prefer neovim as my IDE over propereitery software, not just because I prefer OSS but also because the tmux + vim keybinds + tiling wm setup has grown on me as the superior workflow.
 
-Currently my repositories may look lackluster, but that is something I am actively working to amend.
+Currently my repositories may look lackluster, but that is something I am actively working to amend. It is often that I do a lot of coding on a local branch and forget to push them, I certainly have lost a lot of work that way.
